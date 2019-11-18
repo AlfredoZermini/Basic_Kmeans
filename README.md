@@ -3,4 +3,4 @@ My own implementation of a simple K-means algorithm.
 
 The file input.csv is not available.
 
-![alt text](https://raw.githubusercontent.com/AlfredoZermini/Simple_Kmeans/plot.png)
+<img src="https://github.com/AlfredoZermini/Simple_Kmeans/blob/master/plot.png">
