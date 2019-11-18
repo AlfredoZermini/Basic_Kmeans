@@ -1,5 +1,5 @@
 # Simple_Kmeans
-My own implementation of a simple K-means algorithm.
+My own implementation of a simple K-means algorithm. The algorithm identifies K points clusters and their centres.
 
 The file input.csv is not available.
 
